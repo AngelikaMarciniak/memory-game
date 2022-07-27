@@ -1,0 +1,20 @@
+.main {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    background-color: #4176AA;
+background-attachment: fixed;
+}
+.card {
+    transition: transform 1s;
+    transform-style: preserve-3d;
+}
+.card__face {
+    backface-visibility: hidden;
+  }
+.card__face--back {
+    transform: rotateY( 180deg );
+  }
+  .card.is-flipped {
+    transform: rotateY(180deg);
+  }
