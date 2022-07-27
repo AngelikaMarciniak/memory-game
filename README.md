@@ -2,7 +2,7 @@
  The repository contain an project for my studies - simple memory game.
  It is a popular game to find two same pictures.
  
-# link: https://angelikamarciniak.github.io/memory-game/
+link: https://angelikamarciniak.github.io/memory-game/
  
 # Technologies used:
 - Git
